@@ -16,12 +16,10 @@ Quick bio: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlogic (a
   - [Linux Conf Australia Talks](https://github.com/superna9999/superna9999/wiki/LCA-Talks)
 - 👯 I’m looking to collaborate on ...
   - [meta-meson](https://github.com/superna9999/meta-meson): Cleanup, test and enhancements
-  - Amlogic mainline U-Boot: (see https://linux-meson.com/)
-  - Amlogic mainline Linux: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
+  - Amlogic mainline U-Boot & Linux Development & Testing
 - 🤔 I’m looking for help with ...
   - [meta-meson](https://github.com/superna9999/meta-meson): Cleanup, test and enhancements
-  - Amlogic mainline U-Boot: (see https://linux-meson.com/)
-  - Amlogic mainline Linux: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
+  - Amlogic mainline U-Boot & Linux Development & Testing
 - 💬 Ask me about ...
   - Amlogic mainline U-Boot: (see https://linux-meson.com/)
   - Amlogic mainline Linux: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
