@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+  - Amlogic mainline U-Boot: (see https://linux-meson.com/)
+    - Upstream: https://github.com/u-boot/u-boot
+    - Work Tree: https://github.com/superna9999/u-boot
+    - Integration Tree: https://source.denx.de/u-boot/custodians/u-boot-amlogic/
+  - Amlogic mainline Linux: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
+    - Upstream: https://github.com/torvalds/linux
+    - Work Tree: https://github.com/superna9999/linux
+    - Integration Tree: https://git.kernel.org/pub/scm/linux/kernel/git/amlogic/linux.git/
+  - Zephyr RTOS: PCIe support on ARM64
+    - Work Tree: https://github.com/superna9999/zephyr
+  - [meta-meson: Mainline based Yocto/OpenEmbedded layer](https://github.com/superna9999/meta-meson)
+- 👯 I’m looking to collaborate on ...
+  - [meta-meson: Mainline based Yocto/OpenEmbedded layer](https://github.com/superna9999/meta-meson)
+- 🤔 I’m looking for help with ...
+  - [meta-meson: Mainline based Yocto/OpenEmbedded layer](https://github.com/superna9999/meta-meson)
+- 💬 Ask me about ...
+  - Amlogic mainline U-Boot: (see https://linux-meson.com/)
+  - Amlogic mainline Linux: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
+- 📫 How to reach me: ...
+  - [Twitter](https://twitter.com/superna9999)
+  - Discord: narmstrong#9689
+  - IRC: (narmstrong) #linux-amlogic on Libera.Chat
+  - [Mailing list for Amlogic Linux Development](http://lists.infradead.org/mailman/listinfo/linux-amlogic)
+  - [Mailing list for Amlogic U-Boot Development](https://groups.io/g/u-boot-amlogic)
+
 <!--
 **superna9999/superna9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
