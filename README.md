@@ -1,21 +1,23 @@
 ### Hi there 👋
 
+Quick bio: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlogic (arm-soc, drm, media/cec, media/vdec) & Oxnas Linux Maintainer, U-Boot Amlogic Custodian Maintainer, [meta-meson](https://github.com/superna9999/meta-meson) developer, [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr) contributor.
+
 - 🔭 I’m currently working on ...
+  - [meta-meson](https://github.com/superna9999/meta-meson) Mainline based Yocto/OpenEmbedded layer
   - Amlogic mainline U-Boot: (see https://linux-meson.com/)
-    - Upstream: https://github.com/u-boot/u-boot
-    - Work Tree: https://github.com/superna9999/u-boot
-    - Integration Tree: https://source.denx.de/u-boot/custodians/u-boot-amlogic/
+    - Git Trees: [Upstream](hhttps://github.com/u-boot/u-boot) | [Work/Dev](https://github.com/superna9999/u-boot) | [Custodian Integration](https://source.denx.de/u-boot/custodians/u-boot-amlogic)
   - Amlogic mainline Linux: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
-    - Upstream: https://github.com/torvalds/linux
-    - Work Tree: https://github.com/superna9999/linux
-    - Integration Tree: https://git.kernel.org/pub/scm/linux/kernel/git/amlogic/linux.git/
-  - Zephyr RTOS: PCIe support on ARM64
-    - Work Tree: https://github.com/superna9999/zephyr
-  - [meta-meson: Mainline based Yocto/OpenEmbedded layer](https://github.com/superna9999/meta-meson)
+    - Git Trees: [Upstream](https://github.com/torvalds/linux) | [Work/Dev](https://github.com/superna9999/linux) | [arm-soc Maintainer](https://git.kernel.org/pub/scm/linux/kernel/git/amlogic/linux.git/)
+  - [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr): PCIe support on ARM64
+    - Git Trees: [Upstream](https://github.com/zephyrproject-rtos/zephyr) | [Work](https://github.com/superna9999/zephyr) | [Pull Requests & Issues](https://github.com/zephyrproject-rtos/zephyr/issues?q=is%3Aopen+author%3Asuperna9999)
+- :framed_picture: My Technical Talks (All slides on [Slideshare](https://fr.slideshare.net/superna/presentations))
+  - [Embedded Linux Conference Talks](https://github.com/superna9999/superna9999/wiki/ELC-Talks)
+  - [Embedded Recipes Talks](https://github.com/superna9999/superna9999/wiki/ER-Talks)
+  - [Linux Conf Australia Talks](https://github.com/superna9999/superna9999/wiki/LCA-Talks)
 - 👯 I’m looking to collaborate on ...
-  - [meta-meson: Mainline based Yocto/OpenEmbedded layer](https://github.com/superna9999/meta-meson)
+  - [meta-meson](https://github.com/superna9999/meta-meson): Cleanup, test and enhancements
 - 🤔 I’m looking for help with ...
-  - [meta-meson: Mainline based Yocto/OpenEmbedded layer](https://github.com/superna9999/meta-meson)
+  - [meta-meson](https://github.com/superna9999/meta-meson): Cleanup, test and enhancements
 - 💬 Ask me about ...
   - Amlogic mainline U-Boot: (see https://linux-meson.com/)
   - Amlogic mainline Linux: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
