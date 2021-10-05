@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quick bio: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlogic (arm-soc, drm, media/cec, media/vdec) & Oxnas Linux Maintainer, U-Boot Amlogic Custodian Maintainer, [meta-meson](https://github.com/superna9999/meta-meson) developer, [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr) contributor.
+Quick bio: :fr: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlogic (arm-soc, drm, media/cec, media/vdec) & Oxnas Linux Maintainer, U-Boot Amlogic Custodian Maintainer, [meta-meson](https://github.com/superna9999/meta-meson) developer, [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr) contributor.
 
 - 🔭 I’m currently working on ...
   - [meta-meson](https://github.com/superna9999/meta-meson) Mainline based Yocto/OpenEmbedded layer
@@ -26,7 +26,9 @@ Quick bio: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlogic (a
 - 📫 How to reach me: ...
   - [Twitter](https://twitter.com/superna9999)
   - Discord: narmstrong#9689
-  - IRC: (narmstrong) #linux-amlogic on Libera.Chat
+  - IRC:
+    - Nick: narmstrong
+    - Channels: #linux-amlogic, #armlinux on [Libera.Chat](https://libera.chat/), #dri-devel, #panfrost, #linux-oxnas, #v4l on [OFTC](https://www.oftc.net/)
   - [Mailing list for Amlogic Linux Development](http://lists.infradead.org/mailman/listinfo/linux-amlogic)
   - [Mailing list for Amlogic U-Boot Development](https://groups.io/g/u-boot-amlogic)
 
