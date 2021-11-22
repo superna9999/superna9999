@@ -10,6 +10,7 @@ Quick bio: :fr: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlog
     - Git Trees: [Upstream](https://github.com/torvalds/linux) | [Work/Dev](https://github.com/superna9999/linux) | [arm-soc Maintainer](https://git.kernel.org/pub/scm/linux/kernel/git/amlogic/linux.git/)
   - [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr): PCIe support on ARM64
     - Git Trees: [Upstream](https://github.com/zephyrproject-rtos/zephyr) | [Work](https://github.com/superna9999/zephyr) | [Pull Requests & Issues](https://github.com/zephyrproject-rtos/zephyr/issues?q=is%3Aopen+author%3Asuperna9999)
+  - [TinyCI](https://github.com/superna9999/tinyci) custom relay HW for CI designed with KiCAD
 - :framed_picture: My Technical Talks (All slides on [Slideshare](https://fr.slideshare.net/superna/presentations))
   - [Embedded Linux Conference Talks](https://github.com/superna9999/superna9999/wiki/ELC-Talks)
   - [Embedded Recipes Talks](https://github.com/superna9999/superna9999/wiki/ER-Talks)
@@ -21,8 +22,8 @@ Quick bio: :fr: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlog
   - [meta-meson](https://github.com/superna9999/meta-meson): Cleanup, test and enhancements
   - Amlogic mainline U-Boot & Linux Development & Testing
 - 💬 Ask me about ...
-  - Amlogic mainline U-Boot: (see https://linux-meson.com/)
-  - Amlogic mainline Linux: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
+  - Amlogic mainline Linux: (see https://linux-meson.com/)
+  - Amlogic mainline U-Boot: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
 - 📫 How to reach me: ...
   - [Twitter](https://twitter.com/superna9999)
   - Discord: narmstrong#9689
