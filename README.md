@@ -11,7 +11,7 @@ Quick bio: :fr: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlog
   - [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr): PCIe support on ARM64
     - Git Trees: [Upstream](https://github.com/zephyrproject-rtos/zephyr) | [Work](https://github.com/superna9999/zephyr) | [Pull Requests & Issues](https://github.com/zephyrproject-rtos/zephyr/issues?q=is%3Aopen+author%3Asuperna9999)
   - [TinyCI](https://github.com/superna9999/tinyci) custom relay HW for CI designed with KiCAD
-- :framed_picture: [My Technical Talks](https://github.com/superna9999/superna9999/wiki/Talks] (All slides on [Slideshare](https://fr.slideshare.net/superna/presentations))
+- :framed_picture: [My Technical Talks](https://github.com/superna9999/superna9999/wiki/Talks) (All slides on [Slideshare](https://fr.slideshare.net/superna/presentations))
   - [Embedded Linux Conference Talks](https://github.com/superna9999/superna9999/wiki/ELC-Talks)
   - [Embedded Recipes Talks](https://github.com/superna9999/superna9999/wiki/ER-Talks)
   - [Linux Conf Australia Talks](https://github.com/superna9999/superna9999/wiki/LCA-Talks)
