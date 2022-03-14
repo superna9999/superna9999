@@ -6,7 +6,7 @@ Quick bio: :fr: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlog
   - [meta-meson](https://github.com/superna9999/meta-meson) Mainline based Yocto/OpenEmbedded layer
   - Amlogic mainline U-Boot: (see https://linux-meson.com/)
     - Git Trees: [Upstream](https://github.com/u-boot/u-boot) | [Work/Dev](https://github.com/superna9999/u-boot) | [Custodian Integration](https://source.denx.de/u-boot/custodians/u-boot-amlogic)
-  - Amlogic mainline Linux: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
+  - Amlogic mainline Linux: (see https://linux-meson.com/u-boot.html)
     - Git Trees: [Upstream](https://github.com/torvalds/linux) | [Work/Dev](https://github.com/superna9999/linux) | [arm-soc Maintainer](https://git.kernel.org/pub/scm/linux/kernel/git/amlogic/linux.git/)
   - [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr): PCIe support on ARM64
     - Git Trees: [Upstream](https://github.com/zephyrproject-rtos/zephyr) | [Work](https://github.com/superna9999/zephyr) | [Pull Requests & Issues](https://github.com/zephyrproject-rtos/zephyr/issues?q=is%3Aopen+author%3Asuperna9999)
