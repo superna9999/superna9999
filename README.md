@@ -25,7 +25,7 @@ Quick bio: :fr: Embedded Linux Engineer @[Baylibre](https://baylibre.com), Amlog
   - Amlogic mainline U-Boot & Linux Development & Testing
 - 💬 Ask me about ...
   - Amlogic mainline Linux: (see https://linux-meson.com/)
-  - Amlogic mainline U-Boot: (see https://linux-meson.com/doku.php?id=start#u-boot_development_status)
+  - Amlogic mainline U-Boot: (see https://linux-meson.com/u-boot.html)
 - 📫 How to reach me: ...
   - [Twitter](https://twitter.com/superna9999)
   - Discord: narmstrong#9689
