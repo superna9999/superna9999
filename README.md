@@ -28,7 +28,7 @@ Quick bio: :fr: Senior Embedded Linux Engineer [@Linaro](https://github.com/Lina
   - Amlogic mainline U-Boot: (see https://linux-meson.com/u-boot.html)
 - 📫 How to reach me: ...
   - [Twitter](https://twitter.com/superna9999)
-  - [Mastodon](https://social.linux.pizza/@superna9999)
+  - <a rel="me" href="https://social.linux.pizza/@superna9999">Mastodon</a>
   - Discord: narmstrong#9689
   - IRC:
     - Nick: narmstrong
