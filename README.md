@@ -4,7 +4,7 @@ Quick bio: :fr: Senior Embedded Linux Engineer [@Linaro](https://github.com/Lina
 
 - 🔭 I’m currently working on ...
   - Qualcomm Upstream Support  
-    - Git Trees: [Upstream](https://github.com/torvalds/linux) | [Work/Dev](https://git.linaro.org/people/neil.armstrong/linux.git/)
+    - Git Trees: [Upstream](https://github.com/torvalds/linux) | [Work/Dev](https://git.codelinaro.org/neil.armstrong/linux.git/)
   - [meta-meson](https://github.com/superna9999/meta-meson) Mainline based Yocto/OpenEmbedded layer
   - Amlogic mainline U-Boot: (see https://linux-meson.com/u-boot.html)
     - Git Trees: [Upstream](https://github.com/u-boot/u-boot) | [Work/Dev](https://github.com/superna9999/u-boot) | [Custodian Integration](https://source.denx.de/u-boot/custodians/u-boot-amlogic)
