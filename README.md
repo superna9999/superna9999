@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quick bio: :fr: Senior Embedded Linux Engineer [@Linaro](https://github.com/Linaro), Amlogic (arm-soc, drm, media/cec, media/vdec) & Oxnas Linux Maintainer, U-Boot Amlogic Custodian Maintainer, [meta-meson](https://github.com/superna9999/meta-meson) developer, [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr) contributor.
+Quick bio: :fr: Senior Embedded Linux Engineer [@Linaro](https://github.com/Linaro), Amlogic (arm-soc, drm, media/cec, media/vdec) Linux Maintainer, U-Boot Amlogic Custodian Maintainer, [meta-meson](https://github.com/superna9999/meta-meson) developer, [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr) contributor.
 
 - 🔭 I’m currently working on ...
   - Qualcomm Upstream Support  
