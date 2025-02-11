@@ -2,6 +2,9 @@
 
 Quick bio: :fr: Senior Embedded Linux Engineer [@Linaro](https://github.com/Linaro), Amlogic (arm-soc, drm, media/cec, media/vdec) DRM (Panel, Bridge) Linux Maintainer & Qualcomm Baseport Developer, U-Boot Amlogic & Qualcomm Snapdragon Custodian Maintainer, [meta-meson](https://github.com/superna9999/meta-meson) developer, [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr) contributor.
 
+Linux Contribution Graph:
+[![Neil's Linux Contributions](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1xxHXpB6ag5Eu5rx9s5pIQCQPw3fiYpkwXlRd7RzQckLqbgcm-gqpAyh2FPHqEtgZ9FfvUFWgd_ja/pubchart?oid=1137444123&format=image)](https://lwn.net/ksdb/developers/show?dev=10)
+
 - 🔭 I’m currently working on ...
   - Qualcomm Upstream Support (see https://linaro.github.io/msm/)
     - Git Trees: [Upstream](https://github.com/torvalds/linux) | [Work/Dev](https://git.codelinaro.org/neil.armstrong/linux.git/)
