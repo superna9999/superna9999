@@ -7,7 +7,7 @@ Linux Contribution Graph:
 
 - 🔭 I’m currently working on ...
   - Qualcomm Upstream Support (see https://linaro.github.io/msm/)
-    - Git Trees: [Upstream](https://github.com/torvalds/linux) | [Work/Dev](https://git.codelinaro.org/neil.armstrong/linux.git/)
+    - Git Trees: [Upstream](https://github.com/torvalds/linux) | [Work/Dev](https://gitlab.com/superna9999/linux)
   - [meta-meson](https://github.com/superna9999/meta-meson) Mainline based Yocto/OpenEmbedded layer
   - Amlogic mainline U-Boot: (see https://linux-meson.com/u-boot.html)
     - Git Trees: [Upstream](https://github.com/u-boot/u-boot) | [Work/Dev](https://github.com/superna9999/u-boot) | [Custodian Integration](https://source.denx.de/u-boot/custodians/u-boot-amlogic)
